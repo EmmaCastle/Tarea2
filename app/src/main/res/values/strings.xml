@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Mascotas</string>
+    <string name="Nombre">Nombre completo</string>
+    <string name="Telefono">Telefono</string>
+    <string name="Email">Email</string>
+    <string name="Descripcion">Descripción Contacto</string>
+    <string name="FechaNacimiento">Fecha Nacimiento</string>
+    <string name="Edicion">Editar datos</string>
+
+
+</resources>
